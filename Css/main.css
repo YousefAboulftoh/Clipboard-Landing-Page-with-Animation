@@ -62,6 +62,7 @@ ul {
     background-image: url(../images/bg-header-desktop.png);
     background-size: cover;
     position: relative;
+    box-shadow: 0 0 10px 0 #ccc;
 }
 
 .bouncing {
@@ -540,7 +541,14 @@ ul {
     font-family: Arial, Helvetica, sans-serif;
     animation: change-color 4s linear infinite;
 }
-
+@media (max-width:767px){
+    .made{
+        font-siz:14px;
+    }
+    .made span{
+        font-size:16px;
+    }
+}
 @keyframes change-color {
     0%,
     100% {
