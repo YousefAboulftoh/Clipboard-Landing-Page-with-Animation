@@ -4,6 +4,6 @@
 
 ## Welcome! 👋
 
-Thanks for checking out this front-end coding challenge.
-
 Clipboard-Landing-Page-with-Animation
+CHECK IT HRER:
+https://yousefaboulftoh.github.io/Clipboard-Landing-Page-with-Animation/
